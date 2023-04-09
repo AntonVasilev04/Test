@@ -1,0 +1,14 @@
+E:\C# задания\Triangle\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.AssemblyReference.cache
+E:\C# задания\Triangle\Tasks\obj\Debug\netcoreapp3.1\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# задания\Triangle\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+E:\C# задания\Triangle\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+E:\C# задания\Triangle\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+E:\C# задания\Triangle\Tasks\bin\Debug\netcoreapp3.1\Tasks.exe
+E:\C# задания\Triangle\Tasks\bin\Debug\netcoreapp3.1\Tasks.deps.json
+E:\C# задания\Triangle\Tasks\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.json
+E:\C# задания\Triangle\Tasks\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.dev.json
+E:\C# задания\Triangle\Tasks\bin\Debug\netcoreapp3.1\Tasks.dll
+E:\C# задания\Triangle\Tasks\bin\Debug\netcoreapp3.1\Tasks.pdb
+E:\C# задания\Triangle\Tasks\obj\Debug\netcoreapp3.1\Tasks.dll
+E:\C# задания\Triangle\Tasks\obj\Debug\netcoreapp3.1\Tasks.pdb
+E:\C# задания\Triangle\Tasks\obj\Debug\netcoreapp3.1\Tasks.genruntimeconfig.cache
